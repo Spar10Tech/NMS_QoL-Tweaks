@@ -6498,7 +6498,7 @@
           <Property name="StatsTypes" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_Damage" />
           </Property>
-          <Property name="Bonus" value="150" />
+          <Property name="Bonus" value="120" />
           <Property name="Level" value="1" />
         </Property>
         <Property value="GcStatsBonus.xml">
@@ -6547,7 +6547,7 @@
           <Property name="StatsTypes" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_MaximumCharge" />
           </Property>
-          <Property name="Bonus" value="300" />
+          <Property name="Bonus" value="200" />
           <Property name="Level" value="1" />
         </Property>
       </Property>
@@ -6656,21 +6656,21 @@
           <Property name="StatsTypes" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_Damage" />
           </Property>
-          <Property name="Bonus" value="50" />
+          <Property name="Bonus" value="30" />
           <Property name="Level" value="1" />
         </Property>
         <Property value="GcStatsBonus.xml">
           <Property name="StatsTypes" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_Rate" />
           </Property>
-          <Property name="Bonus" value="0.8" />
+          <Property name="Bonus" value="0.75" />
           <Property name="Level" value="1" />
         </Property>
         <Property value="GcStatsBonus.xml">
           <Property name="StatsTypes" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_Dispersion" />
           </Property>
-          <Property name="Bonus" value="0.5" />
+          <Property name="Bonus" value="0.75" />
           <Property name="Level" value="1" />
         </Property>
       </Property>

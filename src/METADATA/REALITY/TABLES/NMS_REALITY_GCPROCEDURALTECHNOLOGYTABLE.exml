@@ -546,10 +546,10 @@
           <Property name="Stat" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_Damage" />
           </Property>
-          <Property name="ValueMin" value="8" />
+          <Property name="ValueMin" value="10" />
           <Property name="ValueMax" value="10" />
           <Property name="WeightingCurve" value="GcWeightingCurve.xml">
-            <Property name="WeightingCurve" value="MaxIsUncommon" />
+            <Property name="WeightingCurve" value="NoWeighting" />
           </Property>
           <Property name="AlwaysChoose" value="False" />
         </Property>
@@ -557,8 +557,8 @@
           <Property name="Stat" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_ReloadTime" />
           </Property>
-          <Property name="ValueMin" value="0.9" />
-          <Property name="ValueMax" value="0.95" />
+          <Property name="ValueMin" value="0.95" />
+          <Property name="ValueMax" value="0.975" />
           <Property name="WeightingCurve" value="GcWeightingCurve.xml">
             <Property name="WeightingCurve" value="MinIsUncommon" />
           </Property>
@@ -617,9 +617,9 @@
             <Property name="StatsType" value="Weapon_Projectile_Damage" />
           </Property>
           <Property name="ValueMin" value="15" />
-          <Property name="ValueMax" value="20" />
+          <Property name="ValueMax" value="15" />
           <Property name="WeightingCurve" value="GcWeightingCurve.xml">
-            <Property name="WeightingCurve" value="MaxIsUncommon" />
+            <Property name="WeightingCurve" value="NoWeighting" />
           </Property>
           <Property name="AlwaysChoose" value="False" />
         </Property>
@@ -627,8 +627,8 @@
           <Property name="Stat" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_ReloadTime" />
           </Property>
-          <Property name="ValueMin" value="0.85" />
-          <Property name="ValueMax" value="0.9" />
+          <Property name="ValueMin" value="0.9" />
+          <Property name="ValueMax" value="0.95" />
           <Property name="WeightingCurve" value="GcWeightingCurve.xml">
             <Property name="WeightingCurve" value="MinIsUncommon" />
           </Property>
@@ -687,7 +687,7 @@
             <Property name="StatsType" value="Weapon_Projectile_Damage" />
           </Property>
           <Property name="ValueMin" value="20" />
-          <Property name="ValueMax" value="30" />
+          <Property name="ValueMax" value="25" />
           <Property name="WeightingCurve" value="GcWeightingCurve.xml">
             <Property name="WeightingCurve" value="MaxIsRare" />
           </Property>
@@ -697,8 +697,8 @@
           <Property name="Stat" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_ReloadTime" />
           </Property>
-          <Property name="ValueMin" value="0.8" />
-          <Property name="ValueMax" value="0.85" />
+          <Property name="ValueMin" value="0.85" />
+          <Property name="ValueMax" value="0.9" />
           <Property name="WeightingCurve" value="GcWeightingCurve.xml">
             <Property name="WeightingCurve" value="MinIsSuperRare" />
           </Property>
@@ -756,10 +756,10 @@
           <Property name="Stat" value="GcStatsTypes.xml">
             <Property name="StatsType" value="Weapon_Projectile_Damage" />
           </Property>
-          <Property name="ValueMin" value="30" />
-          <Property name="ValueMax" value="40" />
+          <Property name="ValueMin" value="25" />
+          <Property name="ValueMax" value="35" />
           <Property name="WeightingCurve" value="GcWeightingCurve.xml">
-            <Property name="WeightingCurve" value="MaxIsUncommon" />
+            <Property name="WeightingCurve" value="MaxIsRare" />
           </Property>
           <Property name="AlwaysChoose" value="False" />
         </Property>
